@@ -1,0 +1,9 @@
+--ignore-dir=nqp
+--ignore-dir=parrot
+--ignore-dir=gen
+--ignore-dir=t
+--noparrot
+--type-add=setting:ext:setting
+--type-add=nqp:ext:nqp
+
+--no-setting
